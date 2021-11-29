@@ -1,2 +1,2 @@
 # yanyan.github.io
-Home page
+Personal website, haha!
